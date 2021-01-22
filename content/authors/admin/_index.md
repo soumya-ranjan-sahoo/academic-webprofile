@@ -32,7 +32,7 @@ education:
     institution: Saarland University, Saarbrücken, Germany
     year: Ongoing
   - course: BTech, Electronics and Telecommunication Engineering
-    institution: IIIT-Bhubaneswar
+    institution: IIIT Bhubaneswar, India
     year: 2016
  
 
@@ -71,8 +71,11 @@ email: "mail.soumya10@gmail.com"
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a Master's thesis student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on Ad-hoc neural information retrieval systems and natural language processing. I am also a visiting student researcher at [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I am presently working on my Master's thesis with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system). My thesis is supervised by Dr. Erisa Terroli and Dr. Patrick Ernst. During my Masters, I have also worked as a research assistant at[German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html)
 
+I am interested in research topics that broadly encompass machine learning and knowledge discovery spanning the areas of Information Retrieval, Information Extraction, Knowledge Bases, Natural Language Processing, Data Mining, Representation Learning, and Graph Machine Learning. I am also interested in topics on fairness, explainability, and privacy of such information systems.
+
+I am currently looking for PhD positions in order to work on challenging and interesting problems in my topics of interest.
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -1,26 +1,29 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Soumya Ranjan Sahoo
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: MSc Student, Department of Computer Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Saarland University
+  url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests fall under the broad theme of Information Systems, spanning the areas of Information Retrieval, Information Extraction, Knowledge Bases, Natural Language Processing, Representation Learning, and Graph Machine Learning. More recently I am studying topics on fairness, explainability, and privacy in retrieval systems.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
+- Machine Learning
+- Natural Language Processing
 - Information Retrieval
+- Data Mining
+- Complex Network and Graphs
+- Fair and Explainable AI Systems
 
 # Education to show in About widget
 education:

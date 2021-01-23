@@ -78,4 +78,4 @@ I am presently working on my Master's thesis with the [Database and Information 
 I am interested in research topics that broadly encompass machine learning and knowledge discovery spanning the areas of information retrieval, information extraction, knowledge bases, natural language processing, data mining, representation learning, and graph machine learning. I am also interested in topics on fairness, explainability, and privacy of such information systems.
 
 I am currently looking for PhD positions to work on challenging and interesting problems in my topics of interest.
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+

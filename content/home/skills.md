@@ -23,7 +23,7 @@ subtitle = ""
  [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "ML and theory"
+  name = "ML and Theory"
   description = "Experience through relevant coursework, projects and research work"
   
 [[feature]]

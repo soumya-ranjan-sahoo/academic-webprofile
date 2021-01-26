@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "MSc, Department of Computer Science"
+  title = "M.Sc., Department of Computer Science"
   company = "Saarland University"
   company_url = "https://saarland-informatics-campus.de/en/"
   location = "Saarbrücken, DE"

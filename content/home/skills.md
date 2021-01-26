@@ -38,11 +38,7 @@ subtitle = ""
   name = "NLP"
   description = "Some experience in related coursework and projects"
   
- [[feature]]
-  icon = "chart-pie"
-  icon_pack = "fas"
-  name = "Analytics & Visualization"
-  description = "Experience in performing basic data analysis on large datasets"
+
   
   
  [[feature]]

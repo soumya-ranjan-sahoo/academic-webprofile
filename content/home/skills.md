@@ -42,7 +42,7 @@ subtitle = ""
  [[feature]]
   icon = "code"
   icon_pack = "fas"
-  name = "Coding/Programming: R, Java, CPP"
+  name = "Coding: R, Java, CPP"
   description = "Experience in working on industrial and academic projects"
   
  [[feature]]

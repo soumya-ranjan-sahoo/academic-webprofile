@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   date_start = "2020-12-01"
   date_end = ""
   description = """ Studying social networks for exploring structural and behavioural properties using graph mining and NLP. 
-   * **Supervisor: Prof. [Tanoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/)**
+   * **Supervisor: Dr. [Tanoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/)**
   """
   
   [[experience]]
@@ -85,7 +85,7 @@ date_format = "Jan 2006"
   title = "Systems Engineer - Data Science"
   company = "Infosys Limited (Infosys NIA)"
   company_url = "https://www.edgeverve.com/artificial-intelligence/nia/"
-  location = "Shibpur, IN"
+  location = "Bengaluru, IN"
   date_start = "2016-06-01"
   date_end = "2017-11-30"
   description = """Worked as part of the DataOps Analytics team and Cloud Infrastructure R&D team.

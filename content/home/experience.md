@@ -74,8 +74,8 @@ date_format = "Jan 2006"
   company = "Utopia Global (Formely Utopia Labs)"
   company_url = "https://www.utopiainc.com/about"
   location = "Bengaluru, IN"
-  date_start = "2015-07-01"
-  date_end = "2017-08-01"
+  date_start = "2018-05-01"
+  date_end = "2018-08-30"
   description = """ Worked as part of the Data Science team, with a focus of Information Extraction.
    * Developed Match & Merge: A toolkit for automating SAP's EAM processes - Match and Merge is an intelligent file search and merging tool which auto-classifies files and merges them to a single master record based on the specifications provided by the end-user. Also, a detailed exploratory analysis is supported by the tool. It leverages NLP and ML at its core. The toolkit is developed using Klein web services. Also, facilitated an Elastic Search based RESTful search and analytics engine for near real-time search. 
    * Guided Interns on developing a Master Data extraction tool, which recognises the correct entities from a description based on certain attributes and auto classifies them.

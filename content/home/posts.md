@@ -28,7 +28,8 @@ date_format = "Jan 2006"
   date_start = "2018-10-10"
   date_end = ""
   description = """Graduate student in the department of computer science with a strong focus on machine learning and information systems. 
-  * Thesis <i>In progress</i>
+  * Thesis: <i>: (Ongoing) Currently writing my thesis with the Department of Databases and Information Systems, Max-Planck Institute for Informatics,
+and under the supervision of Dr. Erisa Terolli on Adhoc Neural Information Retrieval systems for the health domain.</i>
     """
 
 [[experience]]
@@ -40,7 +41,7 @@ date_format = "Jan 2006"
   date_end = "2016-06-01"
   description = """Undergraduate student in the department of electronics engineering with a focus towards signal processing.
    * <b>Grade: 8.4 / 10</b>
-   * Thesis <i>Performance improvement of MIMO based Free Space Optical links: Diversity and Variable Aperture techniques - under Dr.
+   * Thesis: <i>Performance improvement of MIMO based Free Space Optical links: Diversity and Variable Aperture techniques - supervised by Dr.
 Bijayananda Patnaik, IIIT Bhubaneswar</i>
     """
  

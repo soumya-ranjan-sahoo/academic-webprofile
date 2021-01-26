@@ -27,7 +27,7 @@ subtitle = ""
   description = "Experience through relevant coursework, projects and research work"
   
 [[feature]]
-  icon = "search"
+  icon = "search-plus"
   icon_pack = "fas"
   name = "Information Retrieval"
   description = "Experience in related coursework, projects and research work"
@@ -44,6 +44,12 @@ subtitle = ""
   icon_pack = "fas"
   name = "Coding/Programming: R, Java, CPP"
   description = "Experience in working on industrial and academic projects"
+  
+ [[feature]]
+  icon = "code-branch"
+  icon_pack = "fas"
+  name = "Version control and DevOps"
+  description = "Experience in performing basic code maintainence and automation "
   
 # Uncomment to use emoji icons.
 # [[feature]]

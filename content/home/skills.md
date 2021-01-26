@@ -27,9 +27,9 @@ subtitle = ""
   description = "Extensive experience through relevant coursework, projects and research work"
   
 [[feature]]
-  icon = "balance-scale"
+  icon = "searchengin"
   icon_pack = "fas"
-  name = "Fair/Explainable/Robust ML"
+  name = "Information Extraction and Retrieval"
   description = "Experience in related coursework, projects and research"
   
 [[feature]]

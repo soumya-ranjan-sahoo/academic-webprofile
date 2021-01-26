@@ -23,7 +23,7 @@ subtitle = ""
  [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "Machine Learning and theory"
+  name = "ML and theory"
   description = "Experience through relevant coursework, projects and research work"
   
 [[feature]]
@@ -38,6 +38,11 @@ subtitle = ""
   name = "NLP"
   description = "Experience through relevant coursework, academic and industry projects"
   
+[[feature]]
+  icon = "chart-pie"
+  icon_pack = "fas"
+  name = "Analytics & Visualization"
+  description = "Experience in writing big data algorithms and visualizations"
   
  [[feature]]
   icon = "code"
@@ -45,11 +50,6 @@ subtitle = ""
   name = "Coding: R, Java, CPP"
   description = "Experience in working on industrial and academic projects"
   
- [[feature]]
-  icon = "code-branch"
-  icon_pack = "fas"
-  name = "Version control and DevOps"
-  description = "Experience in performing basic code maintainence and automation "
   
 # Uncomment to use emoji icons.
 # [[feature]]

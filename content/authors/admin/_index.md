@@ -71,7 +71,7 @@ email: "mail.soumya10@gmail.com"
 highlight_name: false
 ---
 
-I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a Master's thesis student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on Ad-hoc neural information retrieval systems and natural language processing. I am also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
+I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a Master's thesis student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I am also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 
 I am presently working on my Master's thesis with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system). My thesis is supervised by Dr. Erisa Terroli and Dr. Patrick Ernst. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
 

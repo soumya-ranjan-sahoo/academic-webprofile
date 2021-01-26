@@ -16,30 +16,13 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- icon = "python"
-  icon_pack = "fab"
-  name = "Python"
-  description = "5+ years experience in coding with Python and related libraries"
-  
-- icon = "brain"
-  icon_pack = "fas"
-  name = "ML/AI"
-  description = "Good experience through relevant coursework, projects and research work"
-  
-- icon = "code"
-  icon_pack = "fas"
-  name = "Coding/General Programming"
-  description = "Experience in working on industrial and academic projects using C++ and Java"
+
   
 - description: Statistical modeling using R
   icon: r-project
   icon_pack: fab
   name: R
-  
-- icon = "language"
-  icon_pack = "fas"
-  name = "NLP"
-  description = "Some experience in related coursework and projects"
+ 
   
 - description: Street Photography
   icon: camera-retro

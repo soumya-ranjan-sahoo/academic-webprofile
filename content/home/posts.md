@@ -21,30 +21,28 @@ date_format = "Jan 2006"
 
 
 [[experience]]
-  title = "M.Sc. in Computer Science"
+  title = "MSc, Department of Computer Science"
   company = "Saarland University"
   company_url = "https://saarland-informatics-campus.de/en/"
   location = "Saarbrücken, DE"
-  date_start = "2017-10-01"
+  date_start = "2018-10-10"
   date_end = ""
-  description = """Graduate student of computer science with a strong focus on machine learning/artificial intelligence. 
-   * <b>Grade: 1.3 / 1.0 (German scale)</b>
-   * Core courses: <i>Artificial Intelligence, Information Retrieval and Data Mining, Machine Learning</i>
-   * Advanced courses: <i>Statistical Natural Language Processing, Neural Networks: Implementation and Application, High-level Computer Vision, Methods of Mathematical Analysis, Statistics with R, Human-centered Machine Learning, Machine Learning in Cybersecurity, Information Extraction</i>
-   * Seminars: <i>Machine Learning</i> 
-   """
+  description = """Graduate student in the department of computer science with a strong focus on machine learning and information systems. 
+  * Thesis <i>In progress</i>
+    """
 
 [[experience]]
-  title = "B.Tech. in Electronics and Communication Engineering"
-  company = "Heritage Institute of Technology"
-  company_url = "https://www.heritageit.edu/"
-  location = "Kolkata, IN"
-  date_start = "2011-08-01"
-  date_end = "2015-07-01"
-  description = """Undergraduate student of electronics engineering.
-   * <b>Grade: 8.8 / 10</b>
-   * Core courses: <i>Signals and Systems, Digital Electronic and Integrated Circuits, Analog circuits,  Control System,  Digital Communications, Analog Communications, Digital Signal Processing</i>
-   * Elective courses: <i>Microprocessor and Microcontrollers, Data Structures and C, Information Theory and Coding, Object Oriented Programming, Microelectronics and VLSI Design, Embedded Systems, Database Management Systems</i>
-  """
+  title = "B.Tech. in Electronics and Telecommunication Engineering"
+  company = "IIIT Bhubaneswar"
+  company_url = "https://www.iiit-bh.ac.in/"
+  location = "Bhubaneswar, IN"
+  date_start = "2012-08-01"
+  date_end = "2016-06-01"
+  description = """Undergraduate student in the department of electronics engineering with a focus towards signal processing.
+   * <b>Grade: 8.4 / 10</b>
+   * Thesis <i>Performance improvement of MIMO based Free Space Optical links: Diversity and Variable Aperture techniques - under Dr.
+Bijayananda Patnaik, IIIT Bhubaneswar</i>
+    """
+ 
 
 +++

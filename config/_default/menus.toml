@@ -32,7 +32,7 @@
   
   [[main]]
   name = "Interests"
-  url = "#interests"
+  url = "#featured"
   weight = 50
 
 [[main]]

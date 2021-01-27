@@ -4,7 +4,7 @@ summary: Study on Robustness of Automated Essay Scoring Systems to Out-of-domain
 authors: [Soumya Ranjan Sahoo, Vladislav Skripniuk, Vinit Hegiste]
 categories: []
 date: 2020-07-03T12:10:13+01:00
-tags: ["Deep Learning", "Robustness", "Vision"]
+tags: ["Deep Learning", "Robustness", "NLP", "Adversarial ML"]
 
 
 image:

@@ -4,7 +4,7 @@ summary: This is an unsupervised learning based Clustering web tool that has bee
 authors: [Soumya Ranjan Sahoo]
 categories: []
 date: 2020-07-03T12:10:13+01:00
-tags: ["Machine Learning", "Data Analysis", "Software Development"]
+tags: ["Machine Learning", "Data Analysis", "Software Development", "Vision"]
 
 image:
   caption: ""

@@ -1,5 +1,5 @@
 ---
-title: "Case-study of Offensive Language Classification from Online Tweets"
+title: "Music Information Retrieval For Genre Classification"
 summary: Here we try to analyze different approaches of online tweet classification into offensive and non-offensive categories in the presence of emoticons. We try to enhance the tokenization process to capture better sparsity in the presence of non-textual corpus. 
 authors: [Soumya Ranjan Sahoo, Sourav Dutta, Jyotsna Singh]
 categories: []

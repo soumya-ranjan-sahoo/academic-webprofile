@@ -66,7 +66,7 @@ subtitle = ""
  css_class = ""
 +++
 - Outdoors: I hike. I play football. I swim. I photograph. And I imagine.
-- Indoors: I bake. I cook. I hack electronics. I play piano. I read. And I imagine. 
+- Indoors: I bake. I cook. I hack electronics. I play piano. I play Go. I read. And I imagine. 
 - I am an [Otaku](https://en.wikipedia.org/wiki/Otaku). And I Imagine (そして私は想像します)
 
 As per phonology and linguistics, my name is pronounced as 'Soumy' Ranjan Sahoo | 'सौम्य' रंजन साहू | 'ସୌମ୍ୟ' ରଂଜନ ସାହୁ

@@ -1,6 +1,6 @@
 ---
 title: "Clustering based machine learning application using Flask"
-summary: This is an unsupervised learning based Clustering web tool that has been used to cluster microstructures in Steel based on their physical properties. Files can be uploaded in .xlsx or .csv format. The tool supports five different clustering algorithms in combination with dimensionality reduction. 
+summary: This is an unsupervised learning based lustering web tool that has been used to cluster microstructures in Steel based on their physical properties that have been extracted using classical image processing algorithms. Files can then be uploaded in .xlsx or .csv format. The tool supports five different clustering algorithms in combination with dimensionality reduction. 
 authors: [Soumya Ranjan Sahoo]
 categories: []
 date: 2020-07-03T12:10:13+01:00

@@ -1,6 +1,6 @@
 ---
 title: "Music Information Retrieval For Genre Classification"
-summary: We implement k nearest neighbors, Gaussian Mixture Model, Multi class SVM, Convolutional Neural Network, and Convolutional Recurrent Neural Network to classify the following four genres: DarkForest, Hi-Tech, FullOn, and Goa. We further extract 30 temporal features using a Long Short Term Memory based Auto encoder from individual frames, and augment them with the frame level audio features, which is a novel contribution in this work.  
+summary: We implement k nearest neighbors, Gaussian Mixture Model, Multi class SVM, Convolutional Neural Network, and Convolutional Recurrent Neural Network to classify the following four genres- DarkForest, Hi-Tech, FullOn, and Goa. We further extract 30 temporal features using a Long Short Term Memory based Auto encoder from individual frames, and augment them with the frame level audio features, which is a novel contribution in this work.  
 authors: [Soumya Ranjan Sahoo, Anindita Ghosh]
 categories: []
 date: 2020-07-03T12:10:13+01:00

@@ -28,26 +28,27 @@ subtitle = ""
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
-  
+    
   [[content.filter_button]]
-    name = "Fair ML"
-    tag = "Fair ML"
-
-  [[content.filter_button]]
-    name = "Representation Learning"
-    tag = "Representation Learning"
-  
+    name = "Machine Learning"
+    tag = "Machine Learning"
+    
   [[content.filter_button]]
     name = "NLP"
     tag = "NLP"
-  
+    
   [[content.filter_button]]
     name = "Vision"
     tag = "Vision"
 
-[[content.filter_button]]
-    name = "Data Science"
-    tag = "Data Science"
+  [[content.filter_button]]
+    name = "Data Analysis"
+    tag = "Data Analysis"
+  
+  [[content.filter_button]]
+    name = "Fair ML"
+    tag = "Fair ML"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

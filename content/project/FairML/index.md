@@ -27,4 +27,4 @@ slides: ""
 ---
 Abstact - Successes in natural language processing gave rise to numerous automated essay scoring systems, some of which are now used in high-stakes tests. In this project we take one of the recent models into consideration and through several sanity checks reveal some of its intriguing properties.
 
-**This project was completed as part of the Machine Learning in Cybersecurity course of Saarland University.**
+**This project was completed as part of the Machine Learning in Cybersecurity course offered by CISPA, and instructed by Prof.[Mario Fritz](https://scholar.google.com/citations?hl=en&user=4V1nNm4AAAAJ).**

@@ -13,10 +13,6 @@ image:
   preview_only: false
 
 
-
-
-
-
 url_code: "https://github.com/soumya-ranjan-sahoo/UdSProjects/tree/master/MLCySec/project3"
 url_pdf: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/MLCySec/project3/Report-AdversarialML.pdf"
 url_slides: ""
@@ -29,20 +25,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
-Abstact - Successes in natural language processing gave rise to numerous automated essay scoring systems, some of which are now used in high-stakes tests. In this project we take one of the recent models [20] into consideration and through several sanity checks reveal some of its intriguing properties.
-
-<figure>
-   <img src="featured_2.png" width="75%"></img> 
-    <figcaption><b>Original label (Y-axis) to Predicted label (X-axis)</b></figcaption>
-</figure>
-
-Next, we explore a defence mechanism known as adversarial training, where we train the model with batches of such attacked images.
-We train the model with samples of FGSM attacked images. 
-We show that this drastically improves the robustness of the model for both attacks, for FGSM it goes to 93.4% whereas it improves to 77.6% for MIM.
-
-<figure>
-   <img src="featured_3.png" width="100%"></img> 
-    <figcaption><b>Prediction probabilities for original model and defended model to attacked images</b></figcaption>
-</figure>
+Abstact - Successes in natural language processing gave rise to numerous automated essay scoring systems, some of which are now used in high-stakes tests. In this project we take one of the recent models into consideration and through several sanity checks reveal some of its intriguing properties.
 
 **This project was completed as part of the Machine Learning in Cybersecurity course of Saarland University.**

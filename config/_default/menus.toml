@@ -31,8 +31,8 @@
   weight = 60
   
   [[main]]
-  name = "Interests"
-  url = "#featured"
+  name = "Miscellaneous"
+  url = "#misc"
   weight = 50
 
 [[main]]

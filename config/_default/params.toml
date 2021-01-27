@@ -88,12 +88,11 @@ show_related = {book = true, page = false, post = true, project = true, publicat
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "mail.soumya10@gmail.com"
+email = "mail[dot]soumya10[at]gmail[dot]com"
 phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Saarland University", city = " Saarbrücken", region = "Saarland", postcode = "66123", country = "Germany", country_code = "DE"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
@@ -116,6 +115,9 @@ contact_links = [
   {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "https://join.skype.com/invite/f26ALJZ0Xdiu"},
   #{icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
   ]
+  
+  address = {street = "Saarland University", city = " Saarbrücken", region = "Saarland", postcode = "66123", country = "Germany", country_code = "DE"}
+
 
 ############################
 ## Social

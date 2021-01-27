@@ -1,7 +1,7 @@
 ---
-title: "Data Augmentation using Feature Generation for Volumetric Medical Images"
-summary: In this work, we propose using U-net and ACGAN as a learning framework for feature generation of medical images followed by classification to validate the quality of generated features.
-authors: [Soumya Ranjan Sahoo, Khushboo Mehra]
+title: "Case-study of Offensive Language Classification from Online Tweets"
+summary: Here we try to analyze different approaches of online tweet classification into offensive and non-offensive categories in the presence of emoticons. We try to enhance the tokenization process to capture better sparsity in the presence of non-textual corpus. 
+authors: [Soumya Ranjan Sahoo, Sourav Dutta, Jyotsna Singh]
 categories: []
 date: 2020-07-03T12:10:13+01:00
 tags: ["Deep Learning", "Generative Models", "Vision"]

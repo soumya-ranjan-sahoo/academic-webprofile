@@ -1,7 +1,7 @@
 ---
 title: "Music Information Retrieval For Genre Classification"
-summary: Here we try to analyze different approaches of online tweet classification into offensive and non-offensive categories in the presence of emoticons. We try to enhance the tokenization process to capture better sparsity in the presence of non-textual corpus. 
-authors: [Soumya Ranjan Sahoo, Sourav Dutta, Jyotsna Singh]
+summary: We implement k-nearest neighbors, Gaussian Mixture Model, Multi-class SVM, Convolutional Neural Network, and Convolutional Recurrent Neural Network to classify the following four genres: Dark-Forest, Hi-Tech, Full-On, and Goa. We further extract 30 temporal features using a Long Short Term Memory based Auto encoder from individual frames, and augment them with the frame-level audio features, which is a novel contribution in this work.  
+authors: [Soumya Ranjan Sahoo, Anindita Ghosh]
 categories: []
 date: 2020-07-03T12:10:13+01:00
 tags: ["Deep Learning", "NLP", "Computational Social Science", "Machine Learning"]

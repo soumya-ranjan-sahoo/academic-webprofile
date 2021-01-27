@@ -69,5 +69,5 @@ subtitle = ""
 - Indoors: I bake. I cook. I play piano. I read. And I imagine. 
 - I am an [Otaku](https://en.wikipedia.org/wiki/Otaku). And I Imagine (そして私は想像します)
 
-As per phonology and linguistics, my name is pronounced as 'Soumy' Ranjan Sahoo | 'सौम्य 'रंजन साहू | 'ସୌମ୍ୟ' ରଂଜନ ସାହୁ] Note the "
+As per phonology and linguistics, my name is pronounced as 'Soumy' Ranjan Sahoo | 'सौम्य' रंजन साहू | 'ସୌମ୍ୟ' ରଂଜନ ସାହୁ
 

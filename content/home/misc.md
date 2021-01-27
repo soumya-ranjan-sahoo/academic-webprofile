@@ -65,7 +65,9 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-- Outdoors: I hike. I play football and cricket. I swim. I photograph. And I imagine.
+- Outdoors: I hike. I play football. I swim. I photograph. And I imagine.
 - Indoors: I bake. I cook. I play piano. I read. And I imagine. 
-- I am an [Otaku](https://en.wikipedia.org/wiki/Otaku). そして私は想像します
+- I am an [Otaku](https://en.wikipedia.org/wiki/Otaku). And I Imagine (そして私は想像します)
+
+My name is pronounced as सौम्य रंजन साहू | ସୌମ୍ୟ ରଂଜନ ସାହୁ | 
 

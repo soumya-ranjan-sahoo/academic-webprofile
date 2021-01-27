@@ -14,8 +14,8 @@ image:
   preview_only: false
 
 
-url_code: "https://github.com/soumya-ranjan-sahoo/UdSProjects/tree/master/MLCySec/project3"
-url_pdf: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/MLCySec/project3/Report-AdversarialML.pdf"
+url_code: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/SNLP/source_code/snlp_project.ipynb"
+url_pdf: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/SNLP/project_report.pdf"
 url_slides: ""
 url_video: ""
 

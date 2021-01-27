@@ -4,15 +4,14 @@ summary: Here we try to analyze different approaches of online tweet classificat
 authors: [Soumya Ranjan Sahoo, Sourav Dutta, Jyotsna Singh]
 categories: []
 date: 2020-07-03T12:10:13+01:00
-tags: ["Deep Learning", "Generative Models", "Vision"]
-
+tags: ["Deep Learning", "NLP", "Computational Social Science", "Machine Learning"]
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 
-url_code: "https://github.com/soumya-ranjan-sahoo/GANs---PyTorch/tree/master"
-url_pdf: "https://github.com/soumya-ranjan-sahoo/GANs---PyTorch/blob/master/Report-ComputerVision.pdf"
+url_code: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/SNLP/source_code/snlp_project.ipynb"
+url_pdf: "https://github.com/soumya-ranjan-sahoo/UdSProjects/blob/master/SNLP/project_report.pdf"
 url_slides: ""
 url_video: ""
 ---

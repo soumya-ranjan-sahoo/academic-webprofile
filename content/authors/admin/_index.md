@@ -14,7 +14,7 @@ organizations:
   url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests fall under the broad theme of Information Systems, spanning the areas of Information Retrieval, Information Extraction, Knowledge Bases, Natural Language Processing, Representation Learning, and Graph Machine Learning. More recently I am studying topics on fairness, explainability, and privacy in retrieval systems.
+bio: My research interests fall under the broad theme of Information Systems, spanning the areas of Information Retrieval, Information Extraction, Knowledge Bases, Natural Language Processing, Representation Learning, and Graph Machine Learning. More recently I am studying topics on fairness, explainability, and privacy in modern AI systems.
 
 # Interests to show in About widget
 interests:
@@ -71,11 +71,11 @@ email: "mail.soumya10@gmail.com"
 highlight_name: false
 ---
 
-I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a Master's thesis student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I am also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
+I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a Master's research student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I am also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 
-I am presently working on my Master's thesis with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system). My thesis is supervised by Dr. Erisa Terroli and Dr. Patrick Ernst. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
+I am presently working with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system). My work is supervised by Dr. Erisa Terroli and Dr. Patrick Ernst. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
 
 I am interested in research topics that broadly encompass machine learning and knowledge discovery spanning the areas of information retrieval, information extraction, knowledge bases, natural language processing, data mining, representation learning, and graph machine learning. I am also interested in topics on fairness, explainability, and privacy of such information systems.
 
-I am currently looking for PhD positions to work on challenging and interesting problems in my topics of interest.
+I am currently looking for research thesis positions to work on challenging and interesting problems in my topics of interest.
 

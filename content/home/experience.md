@@ -19,15 +19,16 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Master's Thesis Student"
+  title = "Research Student"
   company = "Max Planck Institute for Informatics"
   company_url = "https://www.mpi-inf.mpg.de/home"
   location = "Saarbrücken, DE"
   date_start = "2020-08-16"
   date_end = ""
   description = """ Research student working in the topics of neural information retrieval systems, with a focus on health domain.
-   * As part of my thesis, I am working towards the objective of enhancing clinical information retrieval in health forums, and therefore improving patient-centric community QA and browsing experience.
-   * Additionally I am exploring neural ranking models, and conducting experiments for evaluating modern IR techniques that can be grouped into two high-level categories: models that perform reranking in multi-stage ranking architectures and learned dense representations that attempt to perform ranking directly.
+   * As part of my research work, I worked towards the objective of enhancing clinical information retrieval in health forums, and therefore improving patient-centric community QA and browsing experience.
+   * Wrote a set of optimum heuristic functions that maximizes the relevancy scores for a labelled dataset by training a snorkel classifier that classifies a given query-document pair as relevant or irrelevant. Later, these functions will be extended to classify the unlabelled set of query-document pairs, followed by re-ranking
+   * Additionally I explored neural ranking models, and conducted several experiments for evaluating modern deep IR techniques based on : a. Type of deep matching models - Representation based vs Interatcion based b. Type of matches : Semantic matching vs Relevancy matching c. models that perform reranking in multi-stage ranking architectures vs learned dense representations that attempt to perform ranking directly. 
    * **Supervisors: Dr. [Erisa Terolli](https://sites.google.com/view/erisaterolli/home?authuser=0), Dr. [Patrick Ernst](https://people.mpi-inf.mpg.de/~pernst/)**
    """
 

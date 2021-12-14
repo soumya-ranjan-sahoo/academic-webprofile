@@ -28,8 +28,7 @@ date_format = "Jan 2006"
   date_start = "2018-10-10"
   date_end = ""
   description = """Graduate student in the department of computer science with a strong focus on machine learning and information systems. 
-  * Project <i>: (Ongoing) Currently working with the Department of Databases and Information Systems, Max-Planck Institute for Informatics,
-and under the supervision of Dr. Erisa Terolli on Adhoc Neural Information Retrieval systems for the health domain.</i>
+  * Project <i>: (Ongoing) Currently working on my master thesis at the Chair of Computer Science and Computational Linguistics and under the supervision of Prof. Vera Demberg on Knowledge driven dialog systems.</i>
     """
 
 [[experience]]

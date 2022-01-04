@@ -14,7 +14,7 @@ organizations:
   url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests fall under the broad theme of Information Systems, spanning the areas of Information Retrieval, Information Extraction, Knowledge Bases, Natural Language Processing, Representation Learning, and Graph Machine Learning. More recently I am working on language representation learning using large language models and graphs.
+bio: My interests are in building robust machine learning models for large information systems, spanning the areas of natural language processing, information extraction and retrieval, knowledge bases and knowledge graphs. I am also interested in problems in graph machine learning and theory. My current focus area includes representation learning of natural languages and graphs.  
 
 # Interests to show in About widget
 interests:
@@ -73,7 +73,7 @@ highlight_name: false
 
 I am pursuing my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. I am currently a thesis student at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html)  working on the broad topic of - End to end neural dialogue systems in the presence of noisy background knowledge. Previosuly, I worked as a Master's research student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I was also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 
-My thesis is being supervised by Prof. Vera Demberg and advised by Prof. Jens Lehmann. At my previous research position (Immersion Lab), I worked with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system) where my work was supervised by Dr. Erisa Terroli. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
+My thesis is being supervised by Md. Rashad Rony and advised by Prof. Vera Demberg, Chair of Computer Science and Computational Linguistics, Saarland University. At my previous research position (Immersion Lab), I worked with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system) where my work was supervised by Dr. Erisa Terroli. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
 
 I am interested in research topics that broadly encompass representation learning and knowledge discovery spanning the areas of information retrieval, information extraction, knowledge bases, natural language processing, data mining, representation learning, and graph machine learning. I am also interested in topics on fairness, explainability, and privacy of such information systems.
 

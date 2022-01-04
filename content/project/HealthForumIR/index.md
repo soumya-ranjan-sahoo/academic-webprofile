@@ -3,7 +3,7 @@ title: "Enhancing clinical information retrieval on health forums using neural r
 summary: Since health forums become a rich source of information to people with medical conditions discussing treatments, doctor's opinions, side-effects to complex-drugs, while also sharing personal background medical information in a community question-answering framework, we develop a neural search engine on top of such health forums by exploring the state-of-the-art neural ranking models. We first write a set of optimal heuristic functions that maximizes the relevancy scores for a labelled dataset by training a snorkel classifier that classifies a given query-document pair as relevant or irrelevant. Later, these functions are extended to classify the unlabelled set of query-document pairs, followed by re-ranking using neural re-rankers.  
 authors: [Soumya Ranjan Sahoo]
 date: 2020-07-03T12:10:13+01:00
-tags: ["Deep Learning", "Machine Learning", "Information Retrieval", "Natural Language Processing", "Information extraction"]
+tags: ["Deep Learning", "Machine Learning", "Information Retrieval", "NLP", "Information extraction"]
 
 image:
   caption: ""

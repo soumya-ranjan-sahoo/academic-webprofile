@@ -19,4 +19,4 @@ Abstact - Music Genre Classification is one of the many branches of Music Inform
 Index Terms - Genre Classification, Information Retrieval, k-nearest Neighbors, Gaussian Mixture Model, Multi-class SVM, Convolutional Neural Network, Convolutional Recurrent Neural Network, Long Short Term Memory, Auto-encoder
 
 
-**This project was completed as part of the Digital Signal Processing course of Saarland University, ad instructed by Prof.[Dietrich Klakow](https://scholar.google.com/citations?hl=en&user=_HtGYmoAAAAJ).**
+**This project was completed as part of the Digital Signal Processing course of Saarland University, and instructed by Prof.[Dietrich Klakow](https://scholar.google.com/citations?hl=en&user=_HtGYmoAAAAJ).**

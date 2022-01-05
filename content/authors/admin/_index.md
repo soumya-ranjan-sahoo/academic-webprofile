@@ -14,7 +14,7 @@ organizations:
   url: https://saarland-informatics-campus.de/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My interests are in building robust machine learning models for large information systems, spanning the areas of natural language processing, information extraction and retrieval, knowledge bases and knowledge graphs. I am also interested in problems in graph machine learning and theory. My current focus area includes representation learning of natural languages and graphs.  
+bio: My interests are in building robust machine learning models for large scale information systems, spanning the areas of natural language processing, information extraction and retrieval, knowledge bases and knowledge graphs. I am also interested in problems in geometric deep learning, particularly graph machine learning and theory. My current focus area includes representation learning of natural languages and graphs.  
 
 # Interests to show in About widget
 interests:
@@ -75,7 +75,7 @@ I am pursuing my Master's degree from the Department of Computer Science, [Saarl
 
 My thesis is being supervised by Md. Rashad Rony and advised by Prof. Vera Demberg, Chair of Computer Science and Computational Linguistics, Saarland University. At my previous research position (Immersion Lab), I worked with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system) where my work was supervised by Dr. Erisa Terroli. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
 
-My interests are in building robust machine learning models for large scale information systems, spanning the areas of natural language processing, data mining, information retrieval, knowledge bases and knowledge graphs based reasoning, and graph machine learning. I am also interested in topics on fairness, explainability, and privacy of such information systems. My current focus area includes representation learning of natural languages and graphs.
+My interests are in building robust machine learning models for large scale information systems, spanning the areas of natural language processing, data mining, information retrieval, knowledge bases and knowledge graphs based reasoning, and graph machine learning. I am also interested in topics of explainability of such information systems, and causal inference in general. My current focus area includes representation learning of natural languages and graphs.
 
 I am currently looking for potential fully-funded PhD positions to work on challenging and interesting problems in my topic of interest. I am also open to R&D full-time and internship positions where I can utilize my creative problem solving and programming skills. 
 

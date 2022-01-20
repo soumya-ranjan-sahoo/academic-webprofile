@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://www.mpi-inf.mpg.de/home"
   location = "Saarbrücken, DE"
   date_start = "2020-08-16"
-  date_end = ""
+  date_end = "2021-06-30"
   description = """ Research student working in the topics of neural information retrieval systems, with a focus on health domain.
    * As part of my research work, I worked towards the objective of enhancing clinical information retrieval in health forums, and therefore improving patient-centric community QA and browsing experience.
    * Wrote a set of optimal heuristic functions that maximizes the relevancy scores for a labelled dataset by training a snorkel classifier that classifies a given query-document pair as relevant or irrelevant. Later, these functions will be extended to classify the unlabelled set of query-document pairs, followed by re-ranking
@@ -39,7 +39,7 @@ date_format = "Jan 2006"
   company_url = "Laboratory for Computational Social Systems"
   location = "Delhi, IN"
   date_start = "2020-12-01"
-  date_end = ""
+  date_end = "2021-05-30"
   description = """ Studying social networks for exploring structural and behavioural properties using graph mining and NLP. 
    * **Supervisor: Dr. [Tanmoy Chakraborty](http://faculty.iiitd.ac.in/~tanmoy/)**
   """
@@ -78,8 +78,8 @@ date_format = "Jan 2006"
   date_start = "2018-05-01"
   date_end = "2018-08-30"
   description = """ Worked as part of the Data Science team, with a focus of Information Extraction.
-   * Developed Match & Merge: A toolkit for automating SAP's EAM processes - Match and Merge is an intelligent file search and merging tool which auto-classifies files and merges them to a single master record based on the specifications provided by the end-user. Also, a detailed exploratory analysis is supported by the tool. It leverages NLP and ML at its core. The toolkit is developed using Klein web services. Also, facilitated an Elastic Search based RESTful search and analytics engine for near real-time search. 
-   * Guided Interns on developing a Master Data extraction tool, which recognises the correct entities from a description based on certain attributes and auto classifies them.
+   * Developed a toolkit (Match and Merge) for automating Enterprise Asset Management processes. Match and Merge is a user-initiated intelligent asset master record recommendation tool that recommends potential files to be merged into a master record based on the user's query or specifications. The tool supports an exploratory local and global analysis of the master record. The toolkit is developed using Klein web services and uses Elasticsearch from the ELK stack.  
+   * Mentored interns on developing a Master Data extraction tool. Together we developed a custom named entity recognition system for enterprise master data assets using classical feature engineering and distant supervision based inductive rule mining.
   """
 
 [[experience]]
@@ -91,8 +91,8 @@ date_format = "Jan 2006"
   date_end = "2017-11-30"
   description = """Worked as part of the DataOps Analytics team and Cloud Infrastructure R&D team.
   * Worked on association and temporal data mining problems to mine and associate frequent error patterns in log data leading to infrastructure based incidents.
-  * Worked on NLP based text analytics for development of NIA, AI Platform of Infosys. Played a major role in developing Exploratory Data Analytics and Predictive Analytics web-applications using RShiny
-  * Worked on a R&D project by Infosys Labs and Infosys Security Group: Mining and classification of Malicious, spam and phishing texts using machine learning and deep learning approaches
+  * Worked on NLP based text analytics for development of NIA, AI Platform of Infosys. Played a major role in developing Exploratory Data Analytics and Predictive Analytics web-applications using RShiny.
+  * Worked on a R&D project by Infosys Labs and Infosys Security Group: Mining and classification of Malicious, spam and phishing texts using machine learning and deep learning approaches.
   * **Supervisor: [Mercy Peter](https://www.linkedin.com/in/mercypeter/)**
   """
 

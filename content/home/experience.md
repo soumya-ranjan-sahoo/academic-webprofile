@@ -77,7 +77,7 @@ date_format = "Jan 2006"
   location = "Bengaluru, IN"
   date_start = "2018-05-01"
   date_end = "2018-08-30"
-  description = """ Worked as part of the Data Science team, with a focus of Information Extraction.
+  description = """ Worked as part of the Data Science team, with a focus on Information Systems.
    * Developed a toolkit (Match and Merge) for automating Enterprise Asset Management processes. Match and Merge is a user-initiated intelligent asset master record recommendation tool that recommends potential files to be merged into a master record based on the user's query or specifications. The tool supports an exploratory local and global analysis of the master record. The toolkit is developed using Klein web services and uses Elasticsearch from the ELK stack.  
    * Mentored interns on developing a Master Data extraction tool. Together we developed a custom named entity recognition system for enterprise master data assets using classical feature engineering and distant supervision based inductive rule mining.
   """

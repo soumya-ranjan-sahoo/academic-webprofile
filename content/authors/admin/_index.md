@@ -71,7 +71,7 @@ email: "mail.soumya10@gmail.com"
 highlight_name: false
 ---
 
-I am an incoming researcher at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html) where I will be working on the braod area of conversational AI while drawing inspiration from socio and psycholinguistics.  
+I am an incoming researcher at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html, where I will be working on the broad area of conversational AI while drawing inspiration from socio and psycholinguistics.  
 
 I completed my Master's degree from the Department of Computer Science, [Saarland University](https://saarland-informatics-campus.de/), Germany. Previosuly, I worked as a Master's research student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I was also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 

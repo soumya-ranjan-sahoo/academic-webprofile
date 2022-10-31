@@ -25,10 +25,10 @@ date_format = "Jan 2006"
   company = "Saarland University"
   company_url = "https://saarland-informatics-campus.de/en/"
   location = "Saarbrücken, DE"
-  date_start = "2018-10-10"
-  date_end = ""
+  date_end = "2022-06-29"
   description = """Graduate student in the department of computer science with a strong focus on machine learning and information systems. 
-  * Project <i>: (Ongoing) Currently working on my master thesis at the Chair of Computer Science and Computational Linguistics and under the supervision of Prof. Vera Demberg on Knowledge driven dialog systems.</i>
+   * <b>Grade: 1.7 / 1.0 (German Scale)</b>
+  * Thesis <i>: Retrieval augmented generative task oriented dialogue systems for faithful knowledge grounding (at the Chair of Computer Science and Computational Linguistics) - supervised by Prof. Vera Demberg and Md. Rashad Rony. </i>
     """
 
 [[experience]]
@@ -36,7 +36,6 @@ date_format = "Jan 2006"
   company = "IIIT Bhubaneswar"
   company_url = "https://www.iiit-bh.ac.in/"
   location = "Bhubaneswar, IN"
-  date_start = "2012-08-01"
   date_end = "2016-06-01"
   description = """Undergraduate student in the department of electronics engineering with a focus towards signal processing.
    * <b>Grade: 8.4 / 10</b>

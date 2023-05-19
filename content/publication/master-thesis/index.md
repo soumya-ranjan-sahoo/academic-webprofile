@@ -38,8 +38,8 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://1drv.ms/b/s!ApsVPrVpG18goT98vyG0VQ3GqlbT?e=2mypTU"
-url_code:
+url_pdf: "https://publica.fraunhofer.de/entities/publication/d37077cc-b34e-408f-96bf-917db9d5b95b/details"
+url_code: "https://github.com/soumya-ranjan-sahoo/Retrieve-n-Generate-ToD"
 url_dataset:
 url_poster:
 url_project: 

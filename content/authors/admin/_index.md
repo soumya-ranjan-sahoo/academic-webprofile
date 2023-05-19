@@ -6,7 +6,7 @@ title: Soumya Ranjan Sahoo
 superuser: true
 
 # Role/position/tagline
-role: AI Researcher,
+role: AI Researcher (Conversational AI)
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,7 +28,7 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: MSc, Embedded Systems, Department of Computer Science
+  - course: MSc, Department of Computer Science
     institution: Saarland University, Saarbrücken, Germany
     year: Ongoing
   - course: BTech, Electronics and Telecommunication Engineering
@@ -71,13 +71,13 @@ email: "mail.soumya10@gmail.com"
 highlight_name: false
 ---
 
-I am an AI  Researcher working on conversational AI and [OpenGPT-X](https://opengpt-x.de/en/) at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html) in Germany.  My major research interest centers around investigating and comprehending the reasoning (causal) aptitudes displayed by the new generation of foundational language models.
+I am an AI  Researcher working on conversational AI and [OpenGPT-X](https://opengpt-x.de/en/) at [Fraunhofer IAIS](https://www.iais.fraunhofer.de/en.html) in Germany.  My major research interest centers around investigating and comprehending the reasoning and planning aptitudes displayed by the new generation of foundational language models.
 
 I completed my Master's degree from the [Department of Computer Science](https://saarland-informatics-campus.de/), [Saarland University](https://saarland-informatics-campus.de/), Germany. Previosuly, I worked as a Master's research student at the [Max Planck Institute for Informatics](https://www.mpi-inf.mpg.de/home), working on ad-hoc neural information retrieval systems and natural language processing. I was also a visiting student researcher at the [Laboratory for Computational Social Systems](http://lcs2.iiitd.edu.in/research.html), IIIT Delhi. 
 
 I completed my Master's thesis titled "Retrieval augmented generative task oriented dialogue systems for faithful knowledge grounding" with the Chair of Computer Science and Computational Linguistics and Fraunhofer IAIS. I was fortunate to be advised by [Prof. Dr. Vera Demberg](https://www.uni-saarland.de/lehrstuhl/demberg/members/verademberg.html) and [Prof. Dr. Jens Lehmann](https://jens-lehmann.org/). At my previous research position (Immersion Lab), I worked with the [Database and Information Systems Group](https://www.mpi-inf.mpg.de/departments/databases-and-information-system) where my work was supervised by Dr. Erisa Terroli. During my Masters, I have also worked as a research assistant at [German Research Center for AI, Saarbrücken](https://www.dfki.de/web/forschung/forschungsbereiche/sprachtechnologie-und-multilingualitaet/), and at [Fraunhofer IZFP, Saarbrücken](https://www.izfp.fraunhofer.de/en/institutsprofil/abteilungen/asdv.html).
 
-My interests are in building robust machine learning models for large scale information systems, spanning the areas of natural language processing, data mining, information retrieval, knowledge bases and knowledge graphs based reasoning, and graph machine learning. I am also interested in topics of explainability of such information systems, and causal inference in general. My current focus area includes representation learning of natural languages and graphs.
+My interests are in building robust machine learning models for scalable conversational AI systems, spanning the areas of natural language processing, information retrieval, knowledge bases and knowledge graphs based reasoning, and graph machine learning. I am also interested in topics of explainability of such systems, and causal inference in general. My current focus area includes complex reasoning and memory management in new generation LLMs.
 
 I am currently looking for potential fully-funded PhD positions to work on challenging and interesting problems in my topic of interest. I am also open to R&D full-time and internship positions where I can utilize my creative problem solving and programming skills. 
 

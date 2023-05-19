@@ -6,7 +6,7 @@ title: "Retrieval Augmented Generative Task-Oriented Dialogue Systems"
 authors:
 - admin
 
-date: 2021-05-01T15:48:21+01:00
+date: 2022-07-29T15:48:21+01:00
 
 # Schedule page publish date (NOT publication's date).
 publishDate: 2022-07-22T15:48:21+01:00
@@ -38,7 +38,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: "https://publica.fraunhofer.de/entities/publication/d37077cc-b34e-408f-96bf-917db9d5b95b/details"
+url_pdf: "https://scholar.google.com/scholar?q=Retrieval+Augmented+Generative+Task-oriented+Dialogue+Systems"
 url_code: "https://github.com/soumya-ranjan-sahoo/Retrieve-n-Generate-ToD"
 url_dataset:
 url_poster:

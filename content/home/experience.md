@@ -84,7 +84,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Systems Engineer - Data Science"
-  company = "Infosys NIA"
+  company = "Infosys Applied AI"
   company_url = "https://www.edgeverve.com/artificial-intelligence/nia/"
   location = "Bengaluru, IN"
   date_start = "2016-06-01"

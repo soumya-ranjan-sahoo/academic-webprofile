@@ -23,20 +23,20 @@ subtitle = ""
  [[feature]]
   icon = "brain"
   icon_pack = "fas"
-  name = "ML and Theory"
+  name = "AI/ML and Theory"
   description = "Experience through relevant coursework, projects and research work"
   
 [[feature]]
   icon = "search-plus"
   icon_pack = "fas"
   name = "Information Retrieval"
-  description = "Experience in related coursework, projects and research work"
+  description = "Experience through industry projects, related course and research work"
   
 [[feature]]
   icon = "language"
   icon_pack = "fas"
-  name = "NLP"
-  description = "Experience through relevant coursework, academic and industry projects"
+  name = "NLP and GenAI"
+  description = "Experience through industry projects, related course and research work"
   
 [[feature]]
   icon = "chart-pie"

@@ -21,9 +21,9 @@ interests:
 - Machine Learning
 - Natural Language Processing and Generation
 - Information Retrieval (Retrieval-augmented Generation, RAG)
-- Science and trustworthiness of LLMs: Reasoning, Planning, Calibration
+- Science of foundational language models
 - Graph Machine Learning and Complex Networks
-- Fair and Explainable AI Systems
+- Fair and trustworthy AI Systems
 
 # Education to show in About widget
 education:
